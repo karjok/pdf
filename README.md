@@ -1,4 +1,4 @@
-<img sec='https://github.com/karjok/pdf/blob/master/IMG_20190514_223056.jpg'/></br>
+<img src='https://github.com/karjok/pdf/blob/master/IMG_20190514_223056.jpg'></br>
 # PDF
 Pdf translator dibuat dengan penuh cinta dan kasih sayang
 # Usage
