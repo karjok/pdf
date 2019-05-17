@@ -10,6 +10,6 @@ $ masuk ke dir pdf
 $ install rekruitmennya
 $ jalankan pakek piton
 ```
-# Aku ? pakek duta sampo lain ??
+# Aku ? jadi duta sampo lain ??
 https://fb.me/om.karjok
 
